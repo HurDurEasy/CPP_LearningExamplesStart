@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88900f7c-762a-4fe5-b944-ce106f1596f5": {
+      "ProjectGuid": "88900f7c-762a-4fe5-b944-ce106f1596f5",
+      "DisplayName": "Lesson 1 basic types_input_output_first_app",
+      "ColorIndex": 0
+    },
+    "20eec6f1-b465-4008-aee9-2d09b36de80d": {
+      "ProjectGuid": "20eec6f1-b465-4008-aee9-2d09b36de80d",
+      "DisplayName": "Lesson 2, Basic mathematical operations, basic logical operations",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
