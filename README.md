@@ -2,6 +2,11 @@ https://github.com/HurDurEasy/CPP_LearningExamplesStart
 # CPP_LearningExamplesStart
 Learning examples for c++ for beginners advanced. 
 
+IDE (czyli edytor kodu który będziemy używać).:
+Visual Studio COMMUNITY 2022/2020/2019/2017 w zależności jaki wam łatwiej zainstalować, wszystkie będą git.
+przykład 2022.:
+https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false
+
 Links.:
 PL examples.:
 # Podstawowe typy danych.:
