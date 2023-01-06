@@ -50,8 +50,20 @@ if( (a>b) || (a>c) ){} -> jeśli a jest większe od b _LUB_ a jest większe od c
 https://cpp0x.pl/kursy/Kurs-C++/Poziom-1/Instrukcja-warunkowa-if-else/16
 
 
-# Pętle
-pętle do... while() https://cpp0x.pl/kursy/Kurs-C++/Poziom-2/Petla-do-while/18
-pętle for.: http://drzewniak.slupsk.pl/~ks/c/c_013.html
+# Pętle .: 
+Pętla wykonuje się dopóki warunek JEST SPEŁNIONY, jeśli warunek przestaje być spełniony (lub wykonywana jest operacja break;) wychodzimy z pętli.
+prosty przykład pętli wypisującej od 0 do 9 (wykona się 10 razy, 0,1,2,3,4,5,6,7,8,9).:
+int a=0;
+while(a<10)
+{
+  std::cout<<a<<endl;
+  a=a+1; //lub a++;
+}
+
+pętle do {operacja} while(warunek)   https://cpp0x.pl/kursy/Kurs-C++/Poziom-2/Petla-do-while/18
+
+pętle for(zmienna;warunek;zmiana zmiennej){operacja}  .: http://drzewniak.slupsk.pl/~ks/c/c_013.html
+
+pętle while(warunek){operacja} .: http://drzewniak.slupsk.pl/~ks/c/c_015.html
 
 
