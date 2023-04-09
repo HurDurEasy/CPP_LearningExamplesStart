@@ -10,7 +10,12 @@
       "ProjectGuid": "20eec6f1-b465-4008-aee9-2d09b36de80d",
       "DisplayName": "Lesson 2, Basic mathematical operations, basic logical operations",
       "ColorIndex": 1
+    },
+    "b28075b0-2286-4890-a3dc-ce27744eb76d": {
+      "ProjectGuid": "b28075b0-2286-4890-a3dc-ce27744eb76d",
+      "DisplayName": "Lesson 3 if_ComparsionOperatorts",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

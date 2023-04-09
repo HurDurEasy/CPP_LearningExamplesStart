@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 1 basic types_input_output_first_app", "Lesson 1 basic types_input_output_first_app\Lesson 1 basic types_input_output_first_app.vcxproj", "{88900F7C-762A-4FE5-B944-CE106F1596F5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 2, Basic mathematical operations, basic logical operations", "Lesson 2, Basic mathematical operations, basic logical operations\Lesson 2, Basic mathematical operations, basic logical operations.vcxproj", "{20EEC6F1-B465-4008-AEE9-2D09B36DE80D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 2 BasicMathLogic", "Lesson 2, Basic mathematical operations, basic logical operations\Lesson 2, Basic mathematical operations, basic logical operations.vcxproj", "{20EEC6F1-B465-4008-AEE9-2D09B36DE80D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 3 if_ComparsionOperatorts", "Lesson 3 if_ComparsionOperatorts\Lesson 3 if_ComparsionOperatorts.vcxproj", "{B28075B0-2286-4890-A3DC-CE27744EB76D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterviewTasks", "InterviewTasks\InterviewTasks.vcxproj", "{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,22 @@ Global
 		{20EEC6F1-B465-4008-AEE9-2D09B36DE80D}.Release|x64.Build.0 = Release|x64
 		{20EEC6F1-B465-4008-AEE9-2D09B36DE80D}.Release|x86.ActiveCfg = Release|Win32
 		{20EEC6F1-B465-4008-AEE9-2D09B36DE80D}.Release|x86.Build.0 = Release|Win32
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Debug|x64.ActiveCfg = Debug|x64
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Debug|x64.Build.0 = Debug|x64
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Debug|x86.Build.0 = Debug|Win32
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Release|x64.ActiveCfg = Release|x64
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Release|x64.Build.0 = Release|x64
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Release|x86.ActiveCfg = Release|Win32
+		{B28075B0-2286-4890-A3DC-CE27744EB76D}.Release|x86.Build.0 = Release|Win32
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Debug|x64.ActiveCfg = Debug|x64
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Debug|x64.Build.0 = Debug|x64
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Debug|x86.Build.0 = Debug|Win32
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Release|x64.ActiveCfg = Release|x64
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Release|x64.Build.0 = Release|x64
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Release|x86.ActiveCfg = Release|Win32
+		{A325C0AF-ECAA-4D29-A3F1-64C6E501E52D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

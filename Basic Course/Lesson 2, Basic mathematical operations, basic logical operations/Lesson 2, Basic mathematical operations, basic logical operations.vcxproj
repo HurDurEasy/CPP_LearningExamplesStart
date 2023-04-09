@@ -24,6 +24,7 @@
     <ProjectGuid>{20eec6f1-b465-4008-aee9-2d09b36de80d}</ProjectGuid>
     <RootNamespace>Lesson2Basicmathematicaloperationsbasiclogicaloperations</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Lesson 2 BasicMathLogic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson 2, Basic mathematical operations, basic logical operations.cpp" />
+    <ClCompile Include="Lesson 2 BasicMathOper.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
